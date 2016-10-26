@@ -1,0 +1,9 @@
+C:\Repositories\DesktopApp\ExampleFormsApp\ExampleFormsApp\bin\Debug\ExampleFormsApp.exe.config
+C:\Repositories\DesktopApp\ExampleFormsApp\ExampleFormsApp\bin\Debug\ExampleFormsApp.exe
+C:\Repositories\DesktopApp\ExampleFormsApp\ExampleFormsApp\bin\Debug\ExampleFormsApp.pdb
+C:\Repositories\DesktopApp\ExampleFormsApp\ExampleFormsApp\obj\Debug\ExampleFormsApp.csprojResolveAssemblyReference.cache
+C:\Repositories\DesktopApp\ExampleFormsApp\ExampleFormsApp\obj\Debug\ExampleFormsApp.Form1.resources
+C:\Repositories\DesktopApp\ExampleFormsApp\ExampleFormsApp\obj\Debug\ExampleFormsApp.Properties.Resources.resources
+C:\Repositories\DesktopApp\ExampleFormsApp\ExampleFormsApp\obj\Debug\ExampleFormsApp.csproj.GenerateResource.Cache
+C:\Repositories\DesktopApp\ExampleFormsApp\ExampleFormsApp\obj\Debug\ExampleFormsApp.exe
+C:\Repositories\DesktopApp\ExampleFormsApp\ExampleFormsApp\obj\Debug\ExampleFormsApp.pdb
