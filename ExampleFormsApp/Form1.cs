@@ -16,6 +16,7 @@ namespace ExampleFormsApp
         {
             InitializeComponent();
             label1.Font = new Font(FontFamily.GenericSerif, 30);
+            label1.Text = "Buddy says hello!";
         }
     }
 }

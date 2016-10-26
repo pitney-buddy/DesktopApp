@@ -1,0 +1,8 @@
+C:\Repositories\DesktopApp\ExampleFormsApp\ExampleFormsApp\bin\Release\ExampleFormsApp.exe.config
+C:\Repositories\DesktopApp\ExampleFormsApp\ExampleFormsApp\bin\Release\ExampleFormsApp.exe
+C:\Repositories\DesktopApp\ExampleFormsApp\ExampleFormsApp\bin\Release\ExampleFormsApp.pdb
+C:\Repositories\DesktopApp\ExampleFormsApp\ExampleFormsApp\obj\Release\ExampleFormsApp.Form1.resources
+C:\Repositories\DesktopApp\ExampleFormsApp\ExampleFormsApp\obj\Release\ExampleFormsApp.Properties.Resources.resources
+C:\Repositories\DesktopApp\ExampleFormsApp\ExampleFormsApp\obj\Release\ExampleFormsApp.csproj.GenerateResource.Cache
+C:\Repositories\DesktopApp\ExampleFormsApp\ExampleFormsApp\obj\Release\ExampleFormsApp.exe
+C:\Repositories\DesktopApp\ExampleFormsApp\ExampleFormsApp\obj\Release\ExampleFormsApp.pdb
